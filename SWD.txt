@@ -2,7 +2,9 @@
 // Java code for linearly search x in arr[]. If x
 
 // is present then return its location, otherwise
-
+//My name is :Jenan Hatim Bajawi
+//ID:445000496
+//Group:2
 // return -1
 
 class LinearSearch {
